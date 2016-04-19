@@ -1,0 +1,544 @@
+Myolastan,Prescription Drugs
+Cardiac Ablation,Surgeries
+Hormone Therapy for Prostate Cancer (androgen deprivation therapy),Procedures
+Cefaclor,Prescription Drugs
+Insulin Glargine,Prescription Drugs
+Amantadine,Prescription Drugs
+tapentadol,Prescription Drugs
+Carvedilol,Prescription Drugs
+Physical Exercise,Exercises
+Coronary angioplasty,Surgeries
+Cabozantinib,Prescription Drugs
+Pazopanib,Prescription Drugs
+Estradiol,Prescription Drugs
+Fluticasone-Salmeterol,Prescription Drugs
+Ketamine,Prescription Drugs
+Rasagiline,Prescription Drugs
+Prednisolone,Prescription Drugs
+Ziprasidone,Prescription Drugs
+Aztreonam,Prescription Drugs
+Certolizumab,Prescription Drugs
+Anagrelide,Prescription Drugs
+Morphine,Prescription Drugs
+Hydrocodone-Acetaminophen,Prescription Drugs
+Leuprolide (Leuprorelin),Prescription Drugs
+Duloxetine,Prescription Drugs
+Physiotherapy,Physical Therapy
+Chamomile Tea,Supplements
+Furosemide,Prescription Drugs
+Buprenorphine-Naloxone,Prescription Drugs
+Abdominal perineal resection,Surgeries
+Triazolam,Prescription Drugs
+Buspirone,Prescription Drugs
+Pentosan polysulfate sodium,Prescription Drugs
+Oxcarbazepine,Prescription Drugs
+Adalimumab,Prescription Drugs
+Ritonavir,Prescription Drugs
+Mestinon Timespan,Prescription Drugs
+Dialectical Behavioral Therapy,Psychotherapy
+Digoxin,Prescription Drugs
+Dalfampridine,Prescription Drugs
+Lung Biopsy,Procedures
+Acyclovir,Prescription Drugs
+Diet and exercise,Lifestyle Modifications
+Neuromuscular Electrical Stimulation,Procedures
+Tramadol,Prescription Drugs
+Circadin,Prescription Drugs
+Bortezomib-thalidomide-dexamethasone (VTd),Prescription Drugs
+Apixaban,Prescription Drugs
+Paroxetine,Prescription Drugs
+Adefovir,Prescription Drugs
+Acapella Device,Equipment
+Ultraviolet B (UVB) Light Therapy,Procedures
+Stribild,Prescription Drugs
+Dietitian,Nutrition/Diets
+Amiloride-Hydrochlorothiazide,Prescription Drugs
+Enoxaparin,Prescription Drugs
+Colistin sulphate,Prescription Drugs
+Multivitamins,Supplements
+Heat therapy,Equipment
+Bromazepam,Prescription Drugs
+Acetaminophen-Diphenhydramine,Over the Counter Drugs
+Coconut oil,Supplements
+Terbinafine,Prescription Drugs
+Valacyclovir,Prescription Drugs
+Flaxseed Oil,Supplements
+Carbidopa-Levodopa,Prescription Drugs
+Hydroxyzine,Prescription Drugs
+Buprenorphine,Prescription Drugs
+Felbamate,Prescription Drugs
+Avoid Cold Temperatures,Lifestyle Modifications
+Fentanyl Transdermal Patch,Prescription Drugs
+Nabilone,Prescription Drugs
+Venlafaxine,Prescription Drugs
+L-Carnitine,Supplements
+Biofeedback,Others
+Rivastigmine,Prescription Drugs
+Epinephrine,Prescription Drugs
+Codeine-acetaminophen (paracetamol),Prescription Drugs
+Insulin pump,Equipment
+Dihydrocodeine,Prescription Drugs
+Clomiphene,Prescription Drugs
+Smoking Cessation Therapy,Lifestyle Modifications
+Milnacipran,Prescription Drugs
+Betamethasone topical,Prescription Drugs
+Budesonide-Formoterol,Prescription Drugs
+Sodium chlorite,Nutrition/Diets
+Abacavir-lamivudine,Prescription Drugs
+Tadalafil,Prescription Drugs
+Oxygen Therapy,Prescription Drugs
+Mesalamine,Prescription Drugs
+Individual Therapy,Psychotherapy
+Laparoscopic gallbladder removal,Surgeries
+Peginterferon alfa 2a,Prescription Drugs
+Applied Behavioral Analysis (ABA),Lifestyle Modifications
+Bortezomib,Prescription Drugs
+Propamidine Isetionate,Prescription Drugs
+Oxycodone-acetaminophen,Prescription Drugs
+Risedronate,Prescription Drugs
+Esomeprazole,Prescription Drugs
+Acetazolamide,Prescription Drugs
+Speech / Language Therapy,Physical Therapy
+Aripiprazole,Prescription Drugs
+Carbocysteine,Over the Counter Drugs
+Physical Therapy,Physical Therapy
+Losartan,Prescription Drugs
+Compression Stockings/Socks,Equipment
+Tetracycline,Prescription Drugs
+Lubricant Eye Drops,Over the Counter Drugs
+Demadex,Prescription Drugs
+Ambrisentan,Prescription Drugs
+Alpha Lipoic Acid,Supplements
+Carbamazepine,Prescription Drugs
+Dornase alfa,Prescription Drugs
+Chemotherapy,Prescription Drugs
+Ossopan,Supplements
+Gemcitabine,Prescription Drugs
+Digestive Enzymes,Supplements
+Pneumonectomy,Surgeries
+Endoscopic retrograde cholangiopancreatography (ERCP),Procedures
+Non-invasive Ventilator,Equipment
+Depo-Medrol,Prescription Drugs
+Nephrectomy,Surgeries
+Propranolol,Prescription Drugs
+Nitroglycerin,Prescription Drugs
+Raltegravir,Prescription Drugs
+Quetiapine,Prescription Drugs
+Alprostadil,Prescription Drugs
+Gallbladder removal (cholecystectomy),Surgeries
+Letrozole,Prescription Drugs
+Folic Acid,Supplements
+Creatine Monohydrate,Supplements
+Dormonoct,Prescription Drugs
+Grape Seed Extract,Supplements
+5-Hydroxytryptophan (5-HTP),Supplements
+Hydromorphone,Prescription Drugs
+Dimethyl fumarate,Prescription Drugs
+Tolvaptan,Prescription Drugs
+Stem Cell Transplant,Procedures
+Amphetamine-Dextroamphetamine,Prescription Drugs
+Clindamycin,Prescription Drugs
+Ice or Cold Packs,Equipment
+Liothyronine (T3),Prescription Drugs
+Therapeutic Phlebotomy,Procedures
+Mycophenolate mofetil,Prescription Drugs
+Lipoma excision,Procedures
+Hydrocortisone suppositories,Prescription Drugs
+Dehydroepiandrosterone DHEA,Supplements
+Lorazepam,Prescription Drugs
+Gluten Free Diet,Nutrition/Diets
+Alprazolam,Prescription Drugs
+Hypertonic Saline,Prescription Drugs
+Adrenalectomy,Surgeries
+Systane Eye Drops,Over the Counter Drugs
+Simvastatin,Prescription Drugs
+Melphalan-prednisone-bortezomib (VMP or MPB),Prescription Drugs
+Fingolimod,Prescription Drugs
+Afatinib,Prescription Drugs
+Testosterone,Prescription Drugs
+Biotin,Supplements
+Etifoxine,Prescription Drugs
+Heparin,Prescription Drugs
+Efavirenz-Emtricitabine-Tenofovir,Prescription Drugs
+Thyroidectomy,Surgeries
+Ibrutinib,Prescription Drugs
+Colchicine,Prescription Drugs
+Metronidazole,Prescription Drugs
+Chlorhexidine gluconate 0.02% solution,Over the Counter Drugs
+Haloperidol,Prescription Drugs
+Indomethacin,Prescription Drugs
+Divalproex sodium,Prescription Drugs
+Wheelchair (powered),Equipment
+Thyroid dessicated,Prescription Drugs
+Phenytoin,Prescription Drugs
+Cyclophosphamide,Prescription Drugs
+Riluzole,Prescription Drugs
+amodiaquine,Prescription Drugs
+Lung lobectomy,Surgeries
+Ethinyl estradiol-norethindrone,Prescription Drugs
+Selegiline,Prescription Drugs
+Omeprazole,Prescription Drugs
+Clopidogrel,Prescription Drugs
+Prostatectomy,Surgeries
+Clindamycin topical,Prescription Drugs
+Levothyroxine,Prescription Drugs
+Colostomy,Surgeries
+Ceftriaxone,Prescription Drugs
+Pets,Others
+Belimumab,Prescription Drugs
+Temazepam,Prescription Drugs
+Radical nephrectomy,Surgeries
+Tamoxifen,Prescription Drugs
+Tamsulosin,Prescription Drugs
+exenatide,Prescription Drugs
+Tramadol-acetaminophen,Prescription Drugs
+Narcotics Anonymous (NA),Psychotherapy
+Bioidentical hormones,Prescription Drugs
+Medroxyprogesterone Acetate,Prescription Drugs
+Flecainide,Prescription Drugs
+Tacrolimus,Prescription Drugs
+Ranitidine,Over the Counter Drugs
+Ibuprofen,Over the Counter Drugs
+Mastectomy,Surgeries
+Triamcinolone topical,Prescription Drugs
+Medical marijuana,Prescription Drugs
+Vitamin B Complex,Supplements
+Clobetasol topical,Prescription Drugs
+Tenofovir,Prescription Drugs
+B Complex 100,Supplements
+Liraglutide,Prescription Drugs
+Acetyl L-Carnitine plus Alpha Lipoic Acid,Supplements
+Vitamin B12 Injection,Prescription Drugs
+Greens Superfoods,Supplements
+Bone Marrow Biopsy,Procedures
+Lurasidone,Prescription Drugs
+Pravastatin,Prescription Drugs
+Hydroxypropyl beta cyclodextrin (HPbCD),Prescription Drugs
+Lisinopril,Prescription Drugs
+Probiotics,Supplements
+Glatiramer acetate,Prescription Drugs
+Aquatic Therapy Exercises,Exercises
+Brain tumor removal / resection,Surgeries
+Desvenlafaxine,Prescription Drugs
+Adrenal Support,Supplements
+Allopurinol,Prescription Drugs
+Albuterol,Prescription Drugs
+Rituximab,Prescription Drugs
+Disability benefits,Others
+Banderol,Supplements
+Vitamin D,Supplements
+Radioactive iodine (I-131),Prescription Drugs
+Bevacizumab,Prescription Drugs
+Implantable port venous access device,Equipment
+Group Therapy,Psychotherapy
+Bupropion,Prescription Drugs
+Hydroxyurea,Prescription Drugs
+Bortezomib-lenalidomide-dexamethasone (VRd),Prescription Drugs
+Diclofenac,Prescription Drugs
+Cannabis,Others
+Atomoxetine,Prescription Drugs
+Chloroquine,Prescription Drugs
+Acetaminophen-caffeine,Over the Counter Drugs
+Metoprolol,Prescription Drugs
+Lonsurf,Prescription Drugs
+Oxaliplatin,Prescription Drugs
+Fenofibrate,Prescription Drugs
+Insulin Aspart,Prescription Drugs
+Iron supplement,Supplements
+Psychiatrist (med management),Psychotherapy
+Clonazepam,Prescription Drugs
+Baclofen,Prescription Drugs
+Pilocarpine,Prescription Drugs
+Topiramate,Prescription Drugs
+Hysterectomy,Surgeries
+Etodolac,Prescription Drugs
+Hot Spa Tub,Equipment
+Carpel Tunnel Wrist Braces,Equipment
+Methadone,Prescription Drugs
+Atenolol,Prescription Drugs
+Methotrexate,Prescription Drugs
+Prednisone,Prescription Drugs
+Pirfenidone,Prescription Drugs
+Doxepin,Prescription Drugs
+insulin detemir,Prescription Drugs
+Butalbital-acetaminophen-caffeine,Prescription Drugs
+Pulmonary Rehabilitation,Physical Therapy
+Boswellia,Supplements
+Loratadine,Over the Counter Drugs
+Cetirizine,Over the Counter Drugs
+Bortezomib-dexamethasone (Vd),Prescription Drugs
+Ipratropium,Prescription Drugs
+Ketorolac,Prescription Drugs
+Ventriculoperitoneal shunt (VP shunt),Surgeries
+Aspirin,Over the Counter Drugs
+Armodafinil,Prescription Drugs
+Glimepiride,Prescription Drugs
+Triamterene,Prescription Drugs
+Motorized scooter/chair,Equipment
+Fluvoxamine,Prescription Drugs
+Irinotecan,Prescription Drugs
+Amoxicillin-clavulanate,Prescription Drugs
+Sofosbuvir,Prescription Drugs
+Naproxen OTC,Over the Counter Drugs
+Calcium/Vitamin D,Supplements
+R-CHOP protocol,Prescription Drugs
+Meditation,Others
+Brain surgery,Surgeries
+Amoxicillin,Prescription Drugs
+Bendamustine,Prescription Drugs
+Hexamidine solution,Others
+Walking,Exercises
+Wheelchair (manual),Equipment
+Acupuncture,Procedures
+Transurethral resection of the prostate (TURP),Surgeries
+Emtricitabine-Tenofovir,Prescription Drugs
+Sildenafil,Prescription Drugs
+Verapamil,Prescription Drugs
+Cervical biopsy,Procedures
+Glipizide,Prescription Drugs
+Treprostinil,Prescription Drugs
+MRI (magnetic resonance imaging),Procedures
+PET Scan (positron emission tomography),Procedures
+Memantine,Prescription Drugs
+Ranitidine Prescription,Prescription Drugs
+Natalizumab,Prescription Drugs
+Dextroamphetamine,Prescription Drugs
+Meloxicam,Prescription Drugs
+Vitamin B12 (methylcobalamin),Supplements
+Insulin Lispro,Prescription Drugs
+Benefiber,Over the Counter Drugs
+Minocycline,Prescription Drugs
+Ustekinumab,Prescription Drugs
+Lacosamide,Prescription Drugs
+Lumpectomy,Surgeries
+Atorvastatin,Prescription Drugs
+Pancrelipase,Prescription Drugs
+Journal Writing,Others
+Trazodone,Prescription Drugs
+Passionflower,Supplements
+Azithromycin,Prescription Drugs
+Hydroxychloroquine,Prescription Drugs
+Lansoprazole,Prescription Drugs
+Fluconazole,Prescription Drugs
+Octreotide,Prescription Drugs
+Lithium Carbonate,Prescription Drugs
+Subcutaneous immune globulin,Prescription Drugs
+Fluorouracil,Prescription Drugs
+Rizatriptan,Prescription Drugs
+Amlodipine,Prescription Drugs
+Prunes,Supplements
+Oxycodone,Prescription Drugs
+Alemtuzumab,Prescription Drugs
+Human Growth Hormone,Prescription Drugs
+Crizotinib,Prescription Drugs
+Nitrazepam,Prescription Drugs
+Etravirine,Prescription Drugs
+Anal pap test,Procedures
+Zonisamide,Prescription Drugs
+Everolimus,Prescription Drugs
+Amitriptyline,Prescription Drugs
+Posterior Fossa Decompression,Surgeries
+Entacapone,Prescription Drugs
+Vancomycin,Prescription Drugs
+Hydrocortisone,Prescription Drugs
+Efavirenz,Prescription Drugs
+CABG (Coronary artery bypass graft),Surgeries
+Budesonide,Prescription Drugs
+Tiotropium inhaler,Prescription Drugs
+No treatments,Others
+Radiation Therapy,Procedures
+Carisoprodol,Prescription Drugs
+Naltrexone,Prescription Drugs
+Lidocaine topical,Prescription Drugs
+Cryotherapy,Procedures
+Ubiquinol,Supplements
+Finasteride,Prescription Drugs
+Curcumin,Supplements
+Imatinib,Prescription Drugs
+Aromatherapy,Procedures
+Botulinum Toxin Type A,Prescription Drugs
+Pantoprazole,Prescription Drugs
+Hydrochlorothiazide HCTZ,Prescription Drugs
+Alkaline Water,Supplements
+Cyclosporine ophthalmic,Prescription Drugs
+Lidocaine patch,Prescription Drugs
+Intravenous Immuno Globulin IVIg,Prescription Drugs
+Feeding Tube,Equipment
+Psychotherapy,Psychotherapy
+Interferon beta-1a SubQ injection,Prescription Drugs
+Anal Irrigation,Procedures
+Flucloxacillin,Prescription Drugs
+Dextromethorphan with Quinidine,Prescription Drugs
+Lactulose,Prescription Drugs
+Anastrozole,Prescription Drugs
+Nifedipine,Prescription Drugs
+Bronchoscopy,Procedures
+Bortezomib-cyclophosphamide-dexamethasone (VCd or CyBorD),Prescription Drugs
+Zoledronic acid,Prescription Drugs
+Massage Therapy,Physical Therapy
+Cannabidiol,Others
+Diphenhydramine,Over the Counter Drugs
+Dextromethorphan,Over the Counter Drugs
+ALS Phase 3 Study Dexpramipexole (KNS-760704),Others
+Rosuvastatin,Prescription Drugs
+Ciclopirox topical,Prescription Drugs
+Pramipexole,Prescription Drugs
+Desloratadine,Prescription Drugs
+Entecavir,Prescription Drugs
+Hydrocortisone topical,Prescription Drugs
+Melatonin,Supplements
+Alendronate,Prescription Drugs
+Rivaroxaban,Prescription Drugs
+Paracetamol-dihydrocodeine,Prescription Drugs
+Pyridostigmine,Prescription Drugs
+Betamethasone-calcipotriene topical,Prescription Drugs
+Diltiazem,Prescription Drugs
+Varenicline,Prescription Drugs
+Docusate,Over the Counter Drugs
+Lenalidomide-dexamethasone (Rd),Prescription Drugs
+Sumatriptan,Prescription Drugs
+Rotigotine,Prescription Drugs
+Metformin,Prescription Drugs
+Prazosin,Prescription Drugs
+Back Brace,Equipment
+Exercise,Exercises
+Warfarin,Prescription Drugs
+Bisacodyl,Over the Counter Drugs
+Ibuprofen Prescription,Prescription Drugs
+Sutent,Prescription Drugs
+Tumor removal / resection,Surgeries
+Ivacaftor,Prescription Drugs
+Methylphenidate,Prescription Drugs
+Baking Soda,Complementary and Alternative Medicines
+Carbidopa-Entacapone-Levodopa,Prescription Drugs
+Azelastine,Prescription Drugs
+Cilantro,Nutrition/Diets
+Chlorzoxazone,Prescription Drugs
+Light Therapy (Phototherapy),Procedures
+Lenalidomide,Prescription Drugs
+Fluticasone,Prescription Drugs
+Electro Therapeutic Point Stimulation (ETPS),Procedures
+Cortisone Injection,Prescription Drugs
+CT Scan Head,Procedures
+Fluoxetine,Prescription Drugs
+Temozolomide,Prescription Drugs
+Tacrolimus topical,Prescription Drugs
+Modafinil,Prescription Drugs
+Nintedanib,Prescription Drugs
+Paliperidone,Prescription Drugs
+Dexamethasone,Prescription Drugs
+Cisplatin,Prescription Drugs
+Cognitive Behavioral Therapy (CBT),Psychotherapy
+Methylprednisolone,Prescription Drugs
+Bicalutamide,Prescription Drugs
+Insulin Glulisine,Prescription Drugs
+Azathioprine,Prescription Drugs
+Rilpivirine-Tenofovir-Emtricitabine,Prescription Drugs
+Escitalopram,Prescription Drugs
+Capecitabine,Prescription Drugs
+Lidocaine,Prescription Drugs
+CPAP Continuous Positive Airway Pressure,Equipment
+Clorazepate,Prescription Drugs
+Zolpidem,Prescription Drugs
+Interferon alfa-2b,Prescription Drugs
+Acetaminophen (Paracetamol),Over the Counter Drugs
+Telaprevir,Prescription Drugs
+Tizanidine,Prescription Drugs
+Hydrocodone,Prescription Drugs
+Ciprofloxacin,Prescription Drugs
+Gluten and dairy free diet,Nutrition/Diets
+Carpal Tunnel Surgery,Surgeries
+Biliary stent,Surgeries
+Ledipasvir-sofosbuvir,Prescription Drugs
+Occupational Therapy,Physical Therapy
+Coronary artery stent,Procedures
+Sulfasalazine,Prescription Drugs
+Interferon beta-1a IM Injection,Prescription Drugs
+Advanced B-12 Complex,Supplements
+Vitamin D3 (cholecalciferol),Supplements
+Brewers Yeast,Supplements
+sitagliptin,Prescription Drugs
+Naproxen Prescription,Prescription Drugs
+Thalidomide-dexamethasone (Td),Prescription Drugs
+Mycophenolic acid,Prescription Drugs
+Nortriptyline,Prescription Drugs
+Appendectomy,Surgeries
+CoQ10 (CoEnzyme Q10),Supplements
+Midodrine,Prescription Drugs
+Deep Brain Stimulation (DBS),Equipment
+Carboplatin,Prescription Drugs
+Plasmapheresis,Procedures
+Doxycycline,Prescription Drugs
+Agalsidase beta,Prescription Drugs
+Codeine,Prescription Drugs
+Meclizine OTC,Over the Counter Drugs
+Promethazine,Prescription Drugs
+Efinaconazole,Prescription Drugs
+Teriflunomide,Prescription Drugs
+Gabapentin,Prescription Drugs
+Mybulen,Prescription Drugs
+Gold Sodium Thiomalate,Prescription Drugs
+Dicyclomine,Prescription Drugs
+Loperamide,Over the Counter Drugs
+Fludarabine,Prescription Drugs
+Clomipramine,Prescription Drugs
+Amiodarone,Prescription Drugs
+Abatacept,Prescription Drugs
+Craniotomy,Surgeries
+Medicines and therapy,Others
+Zopiclone,Prescription Drugs
+Donepezil,Prescription Drugs
+Biopsy,Procedures
+Hydrotherapy (water therapy),Physical Therapy
+Chiropractic,Physical Therapy
+Erlotinib,Prescription Drugs
+Peginterferon alfa-2b,Prescription Drugs
+Famciclovir,Prescription Drugs
+Deanna Protocol,Supplements
+Citalopram,Prescription Drugs
+Sulfacetamide Sodium topical,Prescription Drugs
+Carbidopa-Levodopa CR,Prescription Drugs
+Levetiracetam,Prescription Drugs
+Alcoholics Anonymous (AA),Psychotherapy
+Diazepam,Prescription Drugs
+Mirtazapine,Prescription Drugs
+N-Acetylcysteine NAC,Over the Counter Drugs
+Sertraline,Prescription Drugs
+Ropinirole,Prescription Drugs
+Montelukast,Prescription Drugs
+Oxymorphone,Prescription Drugs
+Etanercept,Prescription Drugs
+moxifloxacin,Prescription Drugs
+Darunavir,Prescription Drugs
+Spironolactone,Prescription Drugs
+Filgrastim,Prescription Drugs
+Omega 3 Fatty Acids,Supplements
+Orthotics,Equipment
+Potassium bromide,Prescription Drugs
+Oxycodone ER,Prescription Drugs
+Breast Reconstruction,Surgeries
+Lamotrigine,Prescription Drugs
+Mucuna Pruriens,Supplements
+Etoricoxib,Prescription Drugs
+Celecoxib,Prescription Drugs
+Infliximab,Prescription Drugs
+Axitinib,Prescription Drugs
+Lisdexamfetamine,Prescription Drugs
+Diet modification,Nutrition/Diets
+Polyhexanide solution,Others
+Ursodiol,Prescription Drugs
+Cold Laser Therapy,Procedures
+Amiloride,Prescription Drugs
+Olanzapine,Prescription Drugs
+Pemetrexed,Prescription Drugs
+Pregabalin,Prescription Drugs
+Cevimeline,Prescription Drugs
+Tobramycin,Prescription Drugs
+Ribavirin,Prescription Drugs
+Insulin Regular,Prescription Drugs
+Leflunomide,Prescription Drugs
+Doxylamine,Over the Counter Drugs
+Dosulepin,Prescription Drugs
+Cyclobenzaprine,Prescription Drugs
+Risperidone,Prescription Drugs
+Fludrocortisone,Prescription Drugs
